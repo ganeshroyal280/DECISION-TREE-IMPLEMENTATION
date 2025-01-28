@@ -54,3 +54,10 @@ Decision Rules: The decision rules are exported as plain text using the export_t
 **Conclusion**
 
 This code is a comprehensive guide to implementing and understanding decision tree classifiers. It demonstrates their transparency and interpretability, making them valuable for applications requiring explainable models. The workflow and outputs provide insights into the decision-making process, enabling better understanding and trust in machine learning predictions
+
+###OUTPUT
+\![Image](https://github.com/user-attachments/assets/29b81216-be7a-45e8-84ad-f537c2b0eff9)
+
+![Image](https://github.com/user-attachments/assets/367cc266-ff18-4b33-ab48-9f1cd506fd58)
+
+![Image](https://github.com/user-attachments/assets/b20a9c3f-3afa-4f55-9cbc-3ebd591f03f7)
